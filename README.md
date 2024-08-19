@@ -138,6 +138,7 @@
 | [Waifu.it](https://docs.waifu.it) | Free RESTful API for Anime Quotes, Facts, Emotes, Gifs, Nekos, Waifus and More! | `apiKey` | Yes | Yes |
 | [Waifu.pics](https://waifu.pics/docs) | Image sharing platform for anime images | No | Yes | No |
 | [Wibu API](https://wibu-api.eu.org) | Anime, Donghua, Manga, Manhua, Manhwa, J-Drama, Genshin Impact. All-in-one weebs related stuff api. | No | Yes | Yes |
+| [Nekosia API](https://nekosia.cat) | Anime API with adorable random images. Let your projects shine with anime magic and a hint of feline charm! | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
